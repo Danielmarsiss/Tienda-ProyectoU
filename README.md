@@ -1,6 +1,6 @@
 # Tienda-ProyectoU
 
-Este proyecto fue desarrollado en colaboración con un equipo durante mi participacion en este desarrollo
+Este proyecto fue desarrollado en colaboración con un equipo durante mi participacion en el proyecto [Tienda-proyecto]
 
 ## 📂 Guía de uso
 - Clonar el repositorio: : bash git clone cd Authentication
